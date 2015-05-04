@@ -1,0 +1,11 @@
+c:\users\administrator\documents\visual studio 2013\Projects\ceshi\ceshi\bin\Debug\ceshi.exe.config
+c:\users\administrator\documents\visual studio 2013\Projects\ceshi\ceshi\bin\Debug\ceshi.exe
+c:\users\administrator\documents\visual studio 2013\Projects\ceshi\ceshi\bin\Debug\ceshi.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\ceshi\ceshi\obj\Debug\ceshi.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2013\Projects\ceshi\ceshi\obj\Debug\ceshi.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2013\Projects\ceshi\ceshi\obj\Debug\ceshi.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2013\Projects\ceshi\ceshi\obj\Debug\ceshi.exe
+c:\users\administrator\documents\visual studio 2013\Projects\ceshi\ceshi\obj\Debug\ceshi.pdb
+C:\Users\Administrator\Desktop\GitTest\ceshi\ceshi\bin\Debug\ceshi.exe.config
+C:\Users\Administrator\Desktop\GitTest\ceshi\ceshi\obj\Debug\ceshi.exe
+C:\Users\Administrator\Desktop\GitTest\ceshi\ceshi\obj\Debug\ceshi.pdb
