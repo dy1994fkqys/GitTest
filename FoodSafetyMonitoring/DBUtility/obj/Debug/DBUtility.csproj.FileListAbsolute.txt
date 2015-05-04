@@ -1,0 +1,10 @@
+E:\VssWork\FoodSafetyMonitoring\DBUtility\bin\Debug\DBUtility.dll
+E:\VssWork\FoodSafetyMonitoring\DBUtility\bin\Debug\DBUtility.pdb
+E:\VssWork\FoodSafetyMonitoring\DBUtility\obj\Debug\DBUtility.dll
+E:\VssWork\FoodSafetyMonitoring\DBUtility\obj\Debug\DBUtility.pdb
+E:\VssWork\FoodSafetyMonitoring\DBUtility\obj\Debug\DBUtility.csprojResolveAssemblyReference.cache
+E:\c#项目\FoodSafetyMonitoring\DBUtility\bin\Debug\DBUtility.dll
+E:\c#项目\FoodSafetyMonitoring\DBUtility\bin\Debug\DBUtility.pdb
+E:\c#项目\FoodSafetyMonitoring\DBUtility\obj\Debug\DBUtility.csprojResolveAssemblyReference.cache
+E:\c#项目\FoodSafetyMonitoring\DBUtility\obj\Debug\DBUtility.dll
+E:\c#项目\FoodSafetyMonitoring\DBUtility\obj\Debug\DBUtility.pdb

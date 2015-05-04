@@ -1,0 +1,2 @@
+E:\VssWork\FoodSafetyMonitoring\DBUtility\obj\Release\ResolveAssemblyReference.cache
+E:\c#项目\FoodSafetyMonitoring\DBUtility\obj\Release\DBUtility.csprojResolveAssemblyReference.cache
